@@ -1,0 +1,11 @@
+@import url("../fonts/Helvetica/stylesheet.css");
+@import url("../fonts/Hurme_Geometric_Sans_No.Font_Family/stylesheet.css");
+
+body {
+  font-family: "Helvetica Now Display" !important;
+}
+
+.speacialFontTitle {
+  font-family: "Hurme Geometric Sans" !important;
+  font-weight: bold !important;
+}

@@ -1,0 +1,1273 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-21 21:38+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/list-table-items.php:53 includes/page-item.php:533
+msgid "Edit"
+msgstr ""
+
+#: includes/list-table-items.php:54
+msgid "Duplicate"
+msgstr ""
+
+#: includes/list-table-items.php:55 includes/page-item.php:543
+#: includes/page-item.php:752
+msgid "Delete"
+msgstr ""
+
+#: includes/list-table-items.php:110 includes/list-table-items.php:121
+msgid "Y/m/d g:i:s a"
+msgstr ""
+
+#: includes/list-table-items.php:111 includes/list-table-items.php:122
+msgid "Y/m/d"
+msgstr ""
+
+#: includes/list-table-items.php:134 includes/page-item.php:38
+#: includes/page-item.php:511 includes/page-item.php:557
+#: includes/page-item.php:787
+msgid "Title"
+msgstr ""
+
+#: includes/list-table-items.php:135
+msgid "Active"
+msgstr ""
+
+#: includes/list-table-items.php:136 includes/page-item.php:61
+msgid "Shortcode"
+msgstr ""
+
+#: includes/list-table-items.php:137
+msgid "Author"
+msgstr ""
+
+#: includes/list-table-items.php:138
+msgid "Date"
+msgstr ""
+
+#: includes/list-table-items.php:139
+msgid "Modified"
+msgstr ""
+
+#: includes/modal-confirm.php:11 includes/modal-pdf-setup.php:11
+msgid "Confirm Dialog"
+msgstr ""
+
+#: includes/modal-confirm.php:17 includes/modal-pdf-setup.php:48
+msgid "Close"
+msgstr ""
+
+#: includes/modal-confirm.php:18 includes/modal-pdf-setup.php:49
+msgid "OK"
+msgstr ""
+
+#: includes/modal-pdf-setup.php:17
+msgid "Remove all existing pages from the \"pages\" section"
+msgstr ""
+
+#: includes/modal-pdf-setup.php:28
+msgid "Set page width & height from the selected PDF document"
+msgstr ""
+
+#: includes/modal-pdf-setup.php:39
+msgid "Create pages from the selected PDF document"
+msgstr ""
+
+#: includes/page-info.php:11
+msgid "This is the <b>LITE version</b> of the plugin."
+msgstr ""
+
+#: includes/page-info.php:12
+msgid "It has two limits:"
+msgstr ""
+
+#: includes/page-info.php:14
+msgid "You can create and use only <b>one item</b>"
+msgstr ""
+
+#: includes/page-info.php:15
+msgid "Your published item will have a <b>little icon</b>"
+msgstr ""
+
+#: includes/page-item.php:18
+msgid "iPages Flipbook Item"
+msgstr ""
+
+#: includes/page-item.php:20
+msgid "Create a new item"
+msgstr ""
+
+#: includes/page-item.php:20
+msgid "Add Item"
+msgstr ""
+
+#: includes/page-item.php:21
+msgid "Save config to a JSON file"
+msgstr ""
+
+#: includes/page-item.php:21
+msgid "Save As..."
+msgstr ""
+
+#: includes/page-item.php:22
+msgid "Load config from a JSON file"
+msgstr ""
+
+#: includes/page-item.php:22
+msgid "Load As..."
+msgstr ""
+
+#: includes/page-item.php:44 includes/page-settings.php:33
+msgid "Buy Pro version"
+msgstr ""
+
+#: includes/page-item.php:45 includes/page-settings.php:34
+msgid "Pro Version"
+msgstr ""
+
+#: includes/page-item.php:50
+msgid "The config should be saved before preview"
+msgstr ""
+
+#: includes/page-item.php:50
+msgid "Preview"
+msgstr ""
+
+#: includes/page-item.php:51 includes/page-settings.php:39
+msgid "Save config to database"
+msgstr ""
+
+#: includes/page-item.php:51 includes/page-settings.php:39
+msgid "Save"
+msgstr ""
+
+#: includes/page-item.php:56
+msgid "loading PDF"
+msgstr ""
+
+#: includes/page-item.php:57 includes/page-item.php:781
+#: includes/page-settings.php:44
+msgid "General"
+msgstr ""
+
+#: includes/page-item.php:58
+msgid "Pages"
+msgstr ""
+
+#: includes/page-item.php:59
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/page-item.php:60
+msgid "Custom JS"
+msgstr ""
+
+#: includes/page-item.php:70
+msgid "Book"
+msgstr ""
+
+#: includes/page-item.php:75
+msgid "Enable/disable book"
+msgstr ""
+
+#: includes/page-item.php:76
+msgid "Enable book"
+msgstr ""
+
+#: includes/page-item.php:81
+msgid "Choose a book style"
+msgstr ""
+
+#: includes/page-item.php:82
+msgid "Book mode"
+msgstr ""
+
+#: includes/page-item.php:84 includes/page-item.php:220
+#: includes/page-item.php:231 includes/page-settings.php:60
+#: includes/page-settings.php:69
+msgid "default"
+msgstr ""
+
+#: includes/page-item.php:85 includes/page-item.php:221
+#: includes/page-item.php:232
+msgid "Two page flip"
+msgstr ""
+
+#: includes/page-item.php:86 includes/page-item.php:222
+#: includes/page-item.php:233
+msgid "One page flip"
+msgstr ""
+
+#: includes/page-item.php:87 includes/page-item.php:223
+#: includes/page-item.php:234
+msgid "One page swipe"
+msgstr ""
+
+#: includes/page-item.php:92
+msgid "Page width (if not set then default page width will be used)"
+msgstr ""
+
+#: includes/page-item.php:93
+msgid "Page width"
+msgstr ""
+
+#: includes/page-item.php:94 includes/page-item.php:138
+msgid "Default: 300"
+msgstr ""
+
+#: includes/page-item.php:95
+msgid ""
+"The page width is not equal to the width ({{appData.pdfPageWidth}}) of the "
+"PDF document"
+msgstr ""
+
+#: includes/page-item.php:99
+msgid "Page height (if not set then default page height will be used)"
+msgstr ""
+
+#: includes/page-item.php:100
+msgid "Page height"
+msgstr ""
+
+#: includes/page-item.php:101
+msgid "Default: 360"
+msgstr ""
+
+#: includes/page-item.php:102
+msgid ""
+"The page height is not equal to the height ({{appData.pdfPageHeight}}) of "
+"the PDF document"
+msgstr ""
+
+#: includes/page-item.php:106
+msgid "Page number to show after the book is ready"
+msgstr ""
+
+#: includes/page-item.php:107
+msgid "Page start"
+msgstr ""
+
+#: includes/page-item.php:108
+msgid "Default: 1"
+msgstr ""
+
+#: includes/page-item.php:112
+msgid "Preload page neighbours for faster loading"
+msgstr ""
+
+#: includes/page-item.php:113
+msgid "Preload neighbours"
+msgstr ""
+
+#: includes/page-item.php:118
+msgid "Make the book look good on all devices"
+msgstr ""
+
+#: includes/page-item.php:119
+msgid "Responsive"
+msgstr ""
+
+#: includes/page-item.php:124
+msgid "Auto fill all available space inside of the book container"
+msgstr ""
+
+#: includes/page-item.php:125
+msgid "Autofit"
+msgstr ""
+
+#: includes/page-item.php:130
+msgid ""
+"Enable/disable prevention of the default behavior on the mouseWheel event"
+msgstr ""
+
+#: includes/page-item.php:131
+msgid "Mouse wheel, prevent the default behavior"
+msgstr ""
+
+#: includes/page-item.php:136
+msgid "Set time in milliseconds (1000 = 1sec)"
+msgstr ""
+
+#: includes/page-item.php:137
+msgid "Flip duration (ms)"
+msgstr ""
+
+#: includes/page-item.php:142
+msgid "Enable/disable page flip sound"
+msgstr ""
+
+#: includes/page-item.php:143
+msgid "Page flip sound"
+msgstr ""
+
+#: includes/page-item.php:148
+msgid "Set page flip sound url (mp3 or ogg format)"
+msgstr ""
+
+#: includes/page-item.php:149
+msgid "Page flip sound url"
+msgstr ""
+
+#: includes/page-item.php:152
+msgid "Select a sound file"
+msgstr ""
+
+#: includes/page-item.php:155
+msgid "Play a flip sound"
+msgstr ""
+
+#: includes/page-item.php:158
+msgid "Select a flip sound"
+msgstr ""
+
+#: includes/page-item.php:164
+msgid "Give a turn-over page some perspective"
+msgstr ""
+
+#: includes/page-item.php:165
+msgid "Perspective"
+msgstr ""
+
+#: includes/page-item.php:166
+msgid "Default: 1500"
+msgstr ""
+
+#: includes/page-item.php:173
+msgid "PDF"
+msgstr ""
+
+#: includes/page-item.php:178
+msgid "Set pdf document url"
+msgstr ""
+
+#: includes/page-item.php:179
+msgid "PDF url"
+msgstr ""
+
+#: includes/page-item.php:182 includes/page-item.php:185
+msgid "Select a pdf document"
+msgstr ""
+
+#: includes/page-item.php:190
+msgid "The book does not contain any page from the PDF document"
+msgstr ""
+
+#: includes/page-item.php:191
+msgid "Create pages from the PDF document"
+msgstr ""
+
+#: includes/page-item.php:194 includes/page-settings.php:75
+msgid "If set true, the progressive loading of a PDF document is enabled"
+msgstr ""
+
+#: includes/page-item.php:195
+msgid "Progressive loading"
+msgstr ""
+
+#: includes/page-item.php:203
+msgid "Container"
+msgstr ""
+
+#: includes/page-item.php:208
+msgid "Specifies the theme of the book"
+msgstr ""
+
+#: includes/page-item.php:209
+msgid "Theme"
+msgstr ""
+
+#: includes/page-item.php:211
+msgid "none"
+msgstr ""
+
+#: includes/page-item.php:217
+msgid "Choose a book style for the portrait mode"
+msgstr ""
+
+#: includes/page-item.php:218
+msgid "Book portrait mode"
+msgstr ""
+
+#: includes/page-item.php:228
+msgid "Choose a book style for the landscape mode"
+msgstr ""
+
+#: includes/page-item.php:229
+msgid "Book landscape mode"
+msgstr ""
+
+#: includes/page-item.php:239
+msgid ""
+"The ratio value (w/h), if less than enable portrait type, if more then "
+"enable landscape type"
+msgstr ""
+
+#: includes/page-item.php:240
+msgid "Ratio coefficient (portrait or landscape)"
+msgstr ""
+
+#: includes/page-item.php:241
+msgid "Default: 1.3"
+msgstr ""
+
+#: includes/page-item.php:245
+msgid "Enable/disable auto container width"
+msgstr ""
+
+#: includes/page-item.php:246
+msgid "Auto container width"
+msgstr ""
+
+#: includes/page-item.php:251
+msgid ""
+"Set the book container width, can be any valid CSS units, not just pixels"
+msgstr ""
+
+#: includes/page-item.php:252
+msgid "Container Width"
+msgstr ""
+
+#: includes/page-item.php:257
+msgid ""
+"Enable/disable auto container height, if sets true, the height will be "
+"depends on the book size"
+msgstr ""
+
+#: includes/page-item.php:258
+msgid "Auto container height"
+msgstr ""
+
+#: includes/page-item.php:263
+msgid ""
+"Set the book container height, can be any valid CSS units, not just pixels, "
+"if not set, the height will be calculated automatic"
+msgstr ""
+
+#: includes/page-item.php:264
+msgid "Container Height"
+msgstr ""
+
+#: includes/page-item.php:269
+msgid "Generate space around the book's content"
+msgstr ""
+
+#: includes/page-item.php:270
+msgid "Padding (top, right, bottom, left)"
+msgstr ""
+
+#: includes/page-item.php:271
+msgid "top"
+msgstr ""
+
+#: includes/page-item.php:272
+msgid "right"
+msgstr ""
+
+#: includes/page-item.php:273
+msgid "bottom"
+msgstr ""
+
+#: includes/page-item.php:274
+msgid "left"
+msgstr ""
+
+#: includes/page-item.php:278
+msgid "Sets the inline background styles ON or OFF"
+msgstr ""
+
+#: includes/page-item.php:279
+msgid "Inline background styles"
+msgstr ""
+
+#: includes/page-item.php:284 includes/page-item.php:887
+msgid "Background color in hexadecimal format (#fff or #555555)"
+msgstr ""
+
+#: includes/page-item.php:285 includes/page-item.php:888
+msgid "Background color"
+msgstr ""
+
+#: includes/page-item.php:290 includes/page-item.php:872
+msgid "Set background image (jpeg or png format)"
+msgstr ""
+
+#: includes/page-item.php:291 includes/page-item.php:873
+msgid "Background image"
+msgstr ""
+
+#: includes/page-item.php:294 includes/page-item.php:715
+#: includes/page-item.php:876
+msgid "Select an image"
+msgstr ""
+
+#: includes/page-item.php:297 includes/page-item.php:879
+msgid "Select a background image"
+msgstr ""
+
+#: includes/page-item.php:303 includes/page-item.php:892
+msgid "Specifies the size of the background images"
+msgstr ""
+
+#: includes/page-item.php:304 includes/page-item.php:893
+msgid "Background size"
+msgstr ""
+
+#: includes/page-item.php:309 includes/page-item.php:902
+msgid "How a background image will be repeated"
+msgstr ""
+
+#: includes/page-item.php:310 includes/page-item.php:903
+msgid "Background repeat"
+msgstr ""
+
+#: includes/page-item.php:315 includes/page-item.php:907
+msgid "Set the starting position of a background image"
+msgstr ""
+
+#: includes/page-item.php:316 includes/page-item.php:908
+msgid "Background position"
+msgstr ""
+
+#: includes/page-item.php:317 includes/page-item.php:909
+msgid "Example: 50% 50%"
+msgstr ""
+
+#: includes/page-item.php:321
+msgid "Set additional css classes to the book container"
+msgstr ""
+
+#: includes/page-item.php:322
+msgid "Extra CSS classes"
+msgstr ""
+
+#: includes/page-item.php:330
+msgid "Zoom"
+msgstr ""
+
+#: includes/page-item.php:335
+msgid "The current book zoom level"
+msgstr ""
+
+#: includes/page-item.php:336
+msgid "Zoom level"
+msgstr ""
+
+#: includes/page-item.php:341
+msgid "The maximum book zoom level"
+msgstr ""
+
+#: includes/page-item.php:342
+msgid "Max zoom level"
+msgstr ""
+
+#: includes/page-item.php:347
+msgid "The minimum book zoom level"
+msgstr ""
+
+#: includes/page-item.php:348
+msgid "Min zoom level"
+msgstr ""
+
+#: includes/page-item.php:353
+msgid "The number of the zoom step"
+msgstr ""
+
+#: includes/page-item.php:354
+msgid "Zoom step"
+msgstr ""
+
+#: includes/page-item.php:359
+msgid "Enable/disable the focal point on the book on which to zoom"
+msgstr ""
+
+#: includes/page-item.php:360
+msgid "Zoom focal"
+msgstr ""
+
+#: includes/page-item.php:365
+msgid "Set the scaling of the book to default after double click or tap event"
+msgstr ""
+
+#: includes/page-item.php:366
+msgid "Zoom default after double click or tap"
+msgstr ""
+
+#: includes/page-item.php:371
+msgid "Set the scaling of the book with the mouse wheel"
+msgstr ""
+
+#: includes/page-item.php:372
+msgid "Mouse wheel zoom"
+msgstr ""
+
+#: includes/page-item.php:377
+msgid "Set the scaling of the book with the keyboard (+ and - keys)"
+msgstr ""
+
+#: includes/page-item.php:378
+msgid "Keyboard zoom"
+msgstr ""
+
+#: includes/page-item.php:383
+msgid "Set the scaling of the book with multi-touch gestures"
+msgstr ""
+
+#: includes/page-item.php:384
+msgid "Pinch zoom"
+msgstr ""
+
+#: includes/page-item.php:389
+msgid "The number by which the book is zoomed"
+msgstr ""
+
+#: includes/page-item.php:390
+msgid "Pinch zoom step"
+msgstr ""
+
+#: includes/page-item.php:398
+msgid "Navigation"
+msgstr ""
+
+#: includes/page-item.php:403
+msgid "Show/hide prev & next navigation buttons"
+msgstr ""
+
+#: includes/page-item.php:404
+msgid "Prev & next buttons"
+msgstr ""
+
+#: includes/page-item.php:409
+msgid "Enable/disable navigation via mouse drag"
+msgstr ""
+
+#: includes/page-item.php:410
+msgid "Mouse drag navigation"
+msgstr ""
+
+#: includes/page-item.php:415
+msgid "Enable/disable navigation via mouse click on a page"
+msgstr ""
+
+#: includes/page-item.php:416
+msgid "Page click navigation"
+msgstr ""
+
+#: includes/page-item.php:421
+msgid "Enable/disable navigation with touch events"
+msgstr ""
+
+#: includes/page-item.php:422
+msgid "Touch navigation"
+msgstr ""
+
+#: includes/page-item.php:427
+msgid "Enable/disable navigation via keyboard"
+msgstr ""
+
+#: includes/page-item.php:428
+msgid "Keyboard navigation"
+msgstr ""
+
+#: includes/page-item.php:433
+msgid "Enable/disable navigation via mouse wheel"
+msgstr ""
+
+#: includes/page-item.php:434
+msgid "Mouse wheel navigation"
+msgstr ""
+
+#: includes/page-item.php:439
+msgid "Show/hide page numbers"
+msgstr ""
+
+#: includes/page-item.php:440
+msgid "Page numbers"
+msgstr ""
+
+#: includes/page-item.php:445
+msgid "Initial page numbering value"
+msgstr ""
+
+#: includes/page-item.php:446
+msgid "Page number first"
+msgstr ""
+
+#: includes/page-item.php:451
+msgid "Numbers of pages to be hidden (-1 is the last page)"
+msgstr ""
+
+#: includes/page-item.php:452
+msgid "Hide page numbers"
+msgstr ""
+
+#: includes/page-item.php:453
+msgid "Example: 1;-1"
+msgstr ""
+
+#: includes/page-item.php:460
+msgid "Toolbar"
+msgstr ""
+
+#: includes/page-item.php:465
+msgid "Show/hide the toolbar control"
+msgstr ""
+
+#: includes/page-item.php:466
+msgid "Enable toolbar"
+msgstr ""
+
+#: includes/page-item.php:472
+msgid "Show/hide the thumbnails controls after the book init"
+msgstr ""
+
+#: includes/page-item.php:473
+msgid "Auto-show thumbnails"
+msgstr ""
+
+#: includes/page-item.php:478
+msgid "Show/hide the outline controls with bookmarks after the book init"
+msgstr ""
+
+#: includes/page-item.php:479
+msgid "Auto-show outline"
+msgstr ""
+
+#: includes/page-item.php:484
+msgid "Show/hide the share dialog box after the book init"
+msgstr ""
+
+#: includes/page-item.php:485
+msgid "Auto-show share"
+msgstr ""
+
+#: includes/page-item.php:493
+msgid "Edit book control title"
+msgstr ""
+
+#: includes/page-item.php:495 includes/page-item.php:535
+#: includes/page-item.php:588 includes/page-item.php:746
+msgid "Move up"
+msgstr ""
+
+#: includes/page-item.php:496 includes/page-item.php:536
+#: includes/page-item.php:589 includes/page-item.php:747
+msgid "Move down"
+msgstr ""
+
+#: includes/page-item.php:513
+msgid "Enable/disable book control"
+msgstr ""
+
+#: includes/page-item.php:523
+msgid "Outline/bookmarks"
+msgstr ""
+
+#: includes/page-item.php:530
+msgid "Add new"
+msgstr ""
+
+#: includes/page-item.php:532 includes/page-item.php:743
+msgid "Copy"
+msgstr ""
+
+#: includes/page-item.php:538
+msgid "Increase level"
+msgstr ""
+
+#: includes/page-item.php:539
+msgid "Decrease level"
+msgstr ""
+
+#: includes/page-item.php:558
+msgid "Page number or url"
+msgstr ""
+
+#: includes/page-item.php:560
+msgid "Go to page"
+msgstr ""
+
+#: includes/page-item.php:561
+msgid "Go to url (self)"
+msgstr ""
+
+#: includes/page-item.php:562
+msgid "Go to url (blank)"
+msgstr ""
+
+#: includes/page-item.php:565
+msgid "Enable/disable bookmark"
+msgstr ""
+
+#: includes/page-item.php:582
+msgid "Add page"
+msgstr ""
+
+#: includes/page-item.php:584
+msgid "Copy page"
+msgstr ""
+
+#: includes/page-item.php:585
+msgid "Edit page"
+msgstr ""
+
+#: includes/page-item.php:587 includes/page-item.php:745
+msgid "Move to the start"
+msgstr ""
+
+#: includes/page-item.php:590 includes/page-item.php:748
+msgid "Move to the end"
+msgstr ""
+
+#: includes/page-item.php:594
+msgid "Delete page"
+msgstr ""
+
+#: includes/page-item.php:606
+msgid "Layers count"
+msgstr ""
+
+#: includes/page-item.php:614
+msgid "Prev page"
+msgstr ""
+
+#: includes/page-item.php:616
+msgid "Next page"
+msgstr ""
+
+#: includes/page-item.php:619
+msgid "Close editor"
+msgstr ""
+
+#: includes/page-item.php:682
+msgid "Please, select a page to view its settings"
+msgstr ""
+
+#: includes/page-item.php:688
+msgid "Page"
+msgstr ""
+
+#: includes/page-item.php:689
+msgid "Layers"
+msgstr ""
+
+#: includes/page-item.php:690
+msgid "Layer"
+msgstr ""
+
+#: includes/page-item.php:694
+msgid "Enable/disable page"
+msgstr ""
+
+#: includes/page-item.php:699
+msgid "Set a page type"
+msgstr ""
+
+#: includes/page-item.php:700
+msgid "Type"
+msgstr ""
+
+#: includes/page-item.php:705
+msgid "Set a page number from PDF document"
+msgstr ""
+
+#: includes/page-item.php:706
+msgid "Page number"
+msgstr ""
+
+#: includes/page-item.php:707
+msgid "Write a number"
+msgstr ""
+
+#: includes/page-item.php:711
+msgid "Set a page image (jpeg or png format)"
+msgstr ""
+
+#: includes/page-item.php:712
+msgid "Page image"
+msgstr ""
+
+#: includes/page-item.php:718
+msgid "Select a page image"
+msgstr ""
+
+#: includes/page-item.php:724
+msgid "Add class when element becomes visible"
+msgstr ""
+
+#: includes/page-item.php:725
+msgid "Show CSS class"
+msgstr ""
+
+#: includes/page-item.php:730
+msgid "Add class when element becomes hidden"
+msgstr ""
+
+#: includes/page-item.php:731
+msgid "Hide CSS class"
+msgstr ""
+
+#: includes/page-item.php:739
+msgid "Add image"
+msgstr ""
+
+#: includes/page-item.php:740
+msgid "Add text"
+msgstr ""
+
+#: includes/page-item.php:775
+msgid "Please, select a layer to view its settings"
+msgstr ""
+
+#: includes/page-item.php:786
+msgid "Set layer title"
+msgstr ""
+
+#: includes/page-item.php:792
+msgid "Set layer position"
+msgstr ""
+
+#: includes/page-item.php:795
+msgid "X [px]"
+msgstr ""
+
+#: includes/page-item.php:799
+msgid "Y [px]"
+msgstr ""
+
+#: includes/page-item.php:806
+msgid "Set layer size"
+msgstr ""
+
+#: includes/page-item.php:809
+msgid "Width [px]"
+msgstr ""
+
+#: includes/page-item.php:813
+msgid "Height [px]"
+msgstr ""
+
+#: includes/page-item.php:820
+msgid "Set layer angle"
+msgstr ""
+
+#: includes/page-item.php:821
+msgid "Angle [deg]"
+msgstr ""
+
+#: includes/page-item.php:826
+msgid "Set additional css classes to a layer"
+msgstr ""
+
+#: includes/page-item.php:827
+msgid "Additional CSS class"
+msgstr ""
+
+#: includes/page-item.php:835
+msgid "Data"
+msgstr ""
+
+#: includes/page-item.php:840
+msgid "Adds a specific url to the layer"
+msgstr ""
+
+#: includes/page-item.php:841
+msgid "Go to an URL"
+msgstr ""
+
+#: includes/page-item.php:843
+msgid "URL"
+msgstr ""
+
+#: includes/page-item.php:850
+msgid "Open url in a new window"
+msgstr ""
+
+#: includes/page-item.php:856
+msgid ""
+"Adds a specific string data to the layer, if we want to use it in custom "
+"code later"
+msgstr ""
+
+#: includes/page-item.php:857
+msgid "User data"
+msgstr ""
+
+#: includes/page-item.php:858
+msgid ""
+"Type any string data; it can be JSON format as an example. You can use this "
+"data inside the custom code later."
+msgstr ""
+
+#: includes/page-item.php:865
+msgid "Image"
+msgstr ""
+
+#: includes/page-item.php:866
+msgid "Text"
+msgstr ""
+
+#: includes/page-item.php:917
+msgid "Text color in hexadecimal format (#fff or #555555)"
+msgstr ""
+
+#: includes/page-item.php:918
+msgid "Color"
+msgstr ""
+
+#: includes/page-item.php:925
+msgid "Set the text size in px"
+msgstr ""
+
+#: includes/page-item.php:926
+msgid "Size [px]"
+msgstr ""
+
+#: includes/page-item.php:927 includes/page-item.php:932
+msgid "Example: 18"
+msgstr ""
+
+#: includes/page-item.php:930
+msgid "Set the text line height in px"
+msgstr ""
+
+#: includes/page-item.php:931
+msgid "Line height [px]"
+msgstr ""
+
+#: includes/page-item.php:940
+msgid "Specifies the horizontal alignment of the text"
+msgstr ""
+
+#: includes/page-item.php:941
+msgid "Align"
+msgstr ""
+
+#: includes/page-item.php:945
+msgid "Specifies the spacing behavior between text characters"
+msgstr ""
+
+#: includes/page-item.php:946
+msgid "Letter spacing [px]"
+msgstr ""
+
+#: includes/page-item.php:947
+msgid "Example: 1"
+msgstr ""
+
+#: includes/page-item.php:953
+msgid "Set a font family for the text"
+msgstr ""
+
+#: includes/page-item.php:954
+msgid "Font family"
+msgstr ""
+
+#: includes/page-item.php:971
+msgid "Enable/disable custom styles"
+msgstr ""
+
+#: includes/page-item.php:977
+msgid "Enable styles"
+msgstr ""
+
+#: includes/page-item.php:993
+msgid "Enable/disable custom javascript code"
+msgstr ""
+
+#: includes/page-item.php:999
+msgid "Enable javascript code"
+msgstr ""
+
+#: includes/page-item.php:1014
+msgid ""
+"Use a shortcode like the one below, copy and paste it into a post or page."
+msgstr ""
+
+#: includes/page-item.php:1018
+msgid "Standard shortcode"
+msgstr ""
+
+#: includes/page-item.php:1024 includes/page-item.php:1036
+msgid "Copy to clipboard"
+msgstr ""
+
+#: includes/page-item.php:1030
+msgid "Shortcode with custom CSS classes"
+msgstr ""
+
+#: includes/page-items.php:16
+msgid "iPages Flipbook Items"
+msgstr ""
+
+#: includes/page-items.php:18
+msgid "Add Book"
+msgstr ""
+
+#: includes/page-settings.php:15
+msgid "iPages Settings"
+msgstr ""
+
+#: includes/page-settings.php:45
+msgid "Actions"
+msgstr ""
+
+#: includes/page-settings.php:53
+msgid "Editor settings"
+msgstr ""
+
+#: includes/page-settings.php:57
+msgid "Choose a default theme for your custom css editor"
+msgstr ""
+
+#: includes/page-settings.php:58
+msgid "CSS editor theme"
+msgstr ""
+
+#: includes/page-settings.php:66
+msgid "Choose a default theme for your custom javascript editor"
+msgstr ""
+
+#: includes/page-settings.php:67
+msgid "JavaScript editor theme"
+msgstr ""
+
+#: includes/page-settings.php:76
+msgid "PDF progressive loading"
+msgstr ""
+
+#: includes/page-settings.php:88
+msgid ""
+"If you want to fully uninstall the plugin with data, you should delete all "
+"items from the database before this action."
+msgstr ""
+
+#: includes/page-settings.php:94
+msgid "Delete all book items from database"
+msgstr ""
+
+#: includes/page-settings.php:95
+msgid "Do you really want to delete all data?"
+msgstr ""
+
+#: includes/page-settings.php:95
+msgid "Delete all data"
+msgstr ""
+
+#: includes/plugin.php:180
+msgid "Error: invalid ipages flipbook shortcode attributes"
+msgstr ""
+
+#: includes/plugin.php:247
+msgid "Error: invalid ipages flipbook database record"
+msgstr ""
+
+#: includes/plugin.php:268
+#, php-format
+msgid "The \"%s\" directory could not be created"
+msgstr ""
+
+#: includes/plugin.php:269 includes/plugin.php:279
+msgid "Please run the following commands in order to make the directory"
+msgstr ""
+
+#: includes/plugin.php:278
+#, php-format
+msgid ""
+"The \"%s\" directory is not writable, therefore the css and js files cannot "
+"be saved."
+msgstr ""
+
+#: includes/plugin.php:306 includes/plugin.php:307 includes/plugin.php:308
+#: includes/plugin.php:309
+msgid "iPages Flipbook"
+msgstr ""
+
+#: includes/plugin.php:307
+msgid "All Books"
+msgstr ""
+
+#: includes/plugin.php:308
+msgid "Add New"
+msgstr ""
+
+#: includes/plugin.php:309
+msgid "Settings"
+msgstr ""
+
+#: includes/plugin.php:348 includes/plugin.php:493 includes/plugin.php:570
+msgid "Available only in Pro version"
+msgstr ""
+
+#: includes/plugin.php:352 includes/plugin.php:501 includes/plugin.php:573
+msgid "Uncaught Error"
+msgstr ""
+
+#: includes/plugin.php:371
+msgid "[Duplicate] "
+msgstr ""
+
+#: includes/plugin.php:494
+msgid "Edit your text here"
+msgstr ""
+
+#: includes/plugin.php:495
+msgid "Custom js code error"
+msgstr ""
+
+#: includes/plugin.php:631 includes/plugin.php:701
+msgid "Item updated"
+msgstr ""
+
+#: includes/plugin.php:634 includes/plugin.php:704
+msgid "The operation failed, can't update item"
+msgstr ""
+
+#: includes/plugin.php:638 includes/plugin.php:759 includes/plugin.php:846
+#: includes/plugin.php:852
+msgid "The operation failed"
+msgstr ""
+
+#: includes/plugin.php:674
+msgid ""
+"The operation failed, you can work only with one book. To create more, buy "
+"the pro version."
+msgstr ""
+
+#: includes/plugin.php:721
+msgid "Item created"
+msgstr ""
+
+#: includes/plugin.php:724
+msgid "The operation failed, can't create item"
+msgstr ""
+
+#: includes/plugin.php:798
+msgid "Settings updated"
+msgstr ""
+
+#: includes/plugin.php:801
+msgid "The operation failed, can't update settings"
+msgstr ""
+
+#: includes/plugin.php:870
+msgid "The operation failed, can't delete data"
+msgstr ""
+
+#: includes/plugin.php:912
+msgid "All data deleted"
+msgstr ""

@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: Atheus Demo Import were successfully downloaded!
+Initial max execution time = 900
+Files info:
+Site URL = https://new.gamepons.com
+Data file = /home/afrist/new.gamepons.com/wp-content/uploads/2021/09/demo-content-import-file_2021-09-03__08-05-55.xml
+Widget file = /home/afrist/new.gamepons.com/wp-content/uploads/2021/09/demo-widgets-import-file_2021-09-03__08-05-55.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Text - No Title - Imported
+
+Footer 3 : 
+
+Text - No Title - Imported
+
+Footer 4 : 
+
+Text - No Title - Imported
+
+
+
+---ocdi/after_import---
+

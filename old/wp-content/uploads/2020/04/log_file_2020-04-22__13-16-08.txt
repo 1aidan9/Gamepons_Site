@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: Creative Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://atheus.themezinho.net
+Data file = /home/u6347868/atheus.themezinho.net/wp-content/themes/atheus/lib/import/demo-data.xml
+Widget file = /home/u6347868/atheus.themezinho.net/wp-content/themes/atheus/lib/import/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Text - No Title - Imported
+
+Footer 3 : 
+
+Text - No Title - Imported
+
+Footer 4 : 
+
+Text - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
